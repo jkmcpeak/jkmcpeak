@@ -1,3 +1,5 @@
+- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://media-public.canva.com/FHMoQ/MAE2K2FHMoQ/1/s.jpg" height="100" /></a>
+- 
 - 👋 Hi, I’m Julia McPeak
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Python and Javascript 

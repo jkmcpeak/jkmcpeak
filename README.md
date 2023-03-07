@@ -1,4 +1,4 @@
- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.canva.com/design/DAFcGa2PvJI/ARETwNwVcwLSTWrJi4gmHg/edit?utm_content=DAFcGa2PvJI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" height="200" /></a>
+ <a href="URL_REDIRECT" target="blank"><img align="center" src="https://media-public.canva.com/-wzzs/MAEJpP-wzzs/1/s.jpg" height="200" /></a>
   
 -  👋 Hi, I’m Julia McPeak
 - 👀 I’m interested in learning to code

@@ -1,9 +1,9 @@
  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://media-public.canva.com/-wzzs/MAEJpP-wzzs/1/s.jpg" height="200" /></a>
   
 -  👋 Hi, I’m Julia McPeak
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python and Javascript 
-- 💞️ I’m looking to collaborate on anything! 
+- 👀 I’m a Marine veteran looking to grow in code. I have a bachelors in communication media from NC state University. 
+- 🌱 I’m currently learning Python and Javascript but have dreams to be a full stack engineer. 
+- 💞️ I’m looking to collaborate on anything, especially if it solves real life problems. 
 - 📫 Find me all around the web:
 
 

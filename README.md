@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on anything! 
 - 📫 Find me all around the web:
 
-[![jkmcpeak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkmcpeak)](https://github.com/jkmcpeak/github-readme-stats)
 
 
 

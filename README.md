@@ -1,4 +1,4 @@
- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://media-public.canva.com/-wzzs/MAEJpP-wzzs/1/s.jpg" height="200" /></a>
+ <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.canva.com/design/DAFcGa2PvJI/JhlEYyaIMOWQktjQ75YDLQ/view?utm_content=DAFcGa2PvJI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" height="200" /></a>
   
 -  👋 Hi, I’m Julia McPeak
 - 👀 I’m a Marine veteran looking to grow in code. I have a bachelors in communication media from NC state University. 
